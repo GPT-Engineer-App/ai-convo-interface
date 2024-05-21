@@ -3,3 +3,6 @@ build = "npm run build"
 
 [gptengineer-app]
 project_id = "8fdd00a0-4fa3-49b9-9e71-1a0d17899607"
+
+[[gptengineer-app.openapi]]
+url = "https://github.com/xiangsx/gpt4free-ts"
